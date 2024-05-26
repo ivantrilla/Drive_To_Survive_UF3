@@ -1,0 +1,45 @@
+<libraries>
+  <library
+      name="C:\M08 APP\Unity\car_game_UF3\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="C:\M08 APP\Unity\car_game_UF3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\a23a4bd8d0a3cee8c8009f0a9e152000\transformed\out\jars\classes.jar;C:\M08 APP\Unity\car_game_UF3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\a23a4bd8d0a3cee8c8009f0a9e152000\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="C:\M08 APP\Unity\car_game_UF3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\a23a4bd8d0a3cee8c8009f0a9e152000\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:C:\M08 APP\Unity\car_game_UF3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\M08 APP\Unity\car_game_UF3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\M08 APP\Unity\car_game_UF3\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name=":core-1.3.1:@aar"
+      jars="C:\Users\trill\.gradle\caches\transforms-3\07c59ce48db8fcf68429c1def5908faf\transformed\core-1.3.1\jars\classes.jar"
+      resolved=":core-1.3.1:"
+      folder="C:\Users\trill\.gradle\caches\transforms-3\07c59ce48db8fcf68429c1def5908faf\transformed\core-1.3.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":UnitySpeechRecognizer:@aar"
+      jars="C:\Users\trill\.gradle\caches\transforms-3\ab5d1a9ec1b038d15be46ba326c2dac8\transformed\UnitySpeechRecognizer\jars\classes.jar"
+      resolved=":UnitySpeechRecognizer:"
+      folder="C:\Users\trill\.gradle\caches\transforms-3\ab5d1a9ec1b038d15be46ba326c2dac8\transformed\UnitySpeechRecognizer"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>

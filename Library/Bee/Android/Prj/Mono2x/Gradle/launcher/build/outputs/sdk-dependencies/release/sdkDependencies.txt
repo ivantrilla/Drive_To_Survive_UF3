@@ -1,0 +1,40 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "core-1.3.1"
+  }
+  digests {
+    sha256: "\351.\246Z7\325\211\224=@ZjT\321\276\235\022\242%\224\217&\304\344\036Q\035\325^\201\357\266"
+  }
+}
+library {
+  maven_library {
+    artifactId: "UnitySpeechRecognizer"
+  }
+  digests {
+    sha256: "\v*y\215/\263\333\373\362\375\255w2>\336\003\006\300\212\314\031!\216F\263\273\314\320\327Ps\372"
+  }
+}
+library {
+  digests {
+    sha256: "Sq\367\b\001\026\331\274\242\034\237E3`/\220\210tp^5v\025\255\325\005\370\331\376\033R#"
+  }
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 0
+  dependency_index: 1
+  dependency_index: 2
+}
+repositories {
+  maven_repo {
+    url: "https://dl.google.com/dl/android/maven2/"
+  }
+}
+repositories {
+  maven_repo {
+    url: "https://repo.maven.apache.org/maven2/"
+  }
+}
